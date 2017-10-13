@@ -17,7 +17,7 @@ Since all you need to run the command is this:
 2. Run `pwd` to find the path to your script when you're inside this folder.
 3. Update `/WORKING/DIRECTORY/` to the location of this folder.
 4. `launchctl load -w ~/Library/LaunchAgents/spacelist.plist`
-5. `launchctl start spaceman.job` (it should be under the <key></key>)
+5. `launchctl start spaceman.job` (it should be under the `<key></key>`)
 
 You should be running!
 
